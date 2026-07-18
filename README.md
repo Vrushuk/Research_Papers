@@ -19,3 +19,5 @@ Issue - 3 <br/>
 Publisher - Growing Science <br/>
 Description - This research presents a novel approach to address the Virtual Machine Placement Problem (VMPP) in cloud data centers with the aim of minimizing energy consumption. The main contributions of this study are threefold. Firstly, a Duelist Algorithm specifically designed for VMPP, which introduces a unique concept of duelists combined with optimization techniques. The algorithm aims to strike a balance between exploration and exploitation in the search space, leading to more effective resource allocation and energy-efficient cloud data center management. Secondly, enhance the performance of the Duelist Algorithm by reducing the number of algorithm-specific parameters. This simplifies the implementation process and increases the algorithm's adaptability to various real-world problems, making it more user-friendly and robust. Lastly, conduct a comprehensive comparison of the Duelist Algorithm with the widely. <br/>
 Scholar articles - Simple and efficient duelist algorithm variations for energy-aware virtual machine placement in cloud data centers
+
+DOI - 10.5267/j.dsl.2024.3.004
