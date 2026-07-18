@@ -9,7 +9,7 @@ Volume - 6  <br/>
 Issue - 1  <br/>
 Pages - 062-064  <br/>
 
-DOI -  https://dx.doi.org/10.17352/gje.0000145
+DOI -  10.17352/gje.0000145
 
 ### 2. Simple and efficient duelist algorithm variations for energy-aware virtual machine placement in cloud data centers.
 Publication date - 2024 <br/>
